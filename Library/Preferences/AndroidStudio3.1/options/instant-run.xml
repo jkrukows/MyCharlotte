@@ -1,0 +1,7 @@
+<application>
+  <component name="InstantRunConfiguration">
+    <option name="RESTART_ACTIVITY" value="false" />
+    <option name="SHOW_TOAST" value="false" />
+    <option name="SHOW_IR_STATUS_NOTIFICATIONS" value="false" />
+  </component>
+</application>
